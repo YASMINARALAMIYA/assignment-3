@@ -1,0 +1,8 @@
+.cover{
+    background-image: url(images/cover/cover-1.png);
+}
+
+.img-overlay{
+    background: rgba(29, 29, 29, 0.7);
+    border-radius: 5px;
+}
